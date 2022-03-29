@@ -15,4 +15,6 @@ Build a Bank Note Authentication Flask app
    
  ##Dataset Link: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
  
+ #screenshot of the streamlit app
+ ![bank_authenticator](https://user-images.githubusercontent.com/86475906/160548027-422ca6f6-9b5b-44f9-b296-94296b5a4082.png)
  
